@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/6dof pose.unity
+  isLoaded: 1
+  isActive: 1
